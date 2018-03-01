@@ -1,0 +1,33 @@
+
+/**
+ * Write a description of class looping here.
+ *
+ * @author (devin faulk)
+ * @version (2-27-18 v1)
+ */
+public class WordPlay
+{
+    // void all of this
+    //public String reverse(String sampleWord) {
+ //String ret = "";
+ //for(int c=0; c < sampleWord.length(); c += 1){
+   //  ret = sampleWord.charAt(c) + ret;
+   // }
+   // return ret;
+//}
+//void testingReverse(){
+ //String sampleWord = reverse("b ");
+ //System.out.println(sampleWord);
+//}
+public String isVowel(char ch) {
+    if (ch = 'a' || 'A' || 'e' || 'E' || 'i' || 'I' || 'o' || 'O' || 'u' | 'U') {
+        return true;
+    } else {
+        return false;
+};
+};
+
+public String replaceVowels(String phrase, char ch) {
+    
+};
+}
